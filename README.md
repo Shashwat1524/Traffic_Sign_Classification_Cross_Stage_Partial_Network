@@ -1,9 +1,7 @@
 # Traffic_Sign_Classification_Cross_Stage_Partial_Network
 
 
-# ECE5700-Traffic_Sign-Classification-CSP
-
-This repository contains the code and resources for a traffic sign classification model utilizing a Cross-Stage Partial (CSP) architecture. This project was developed as the final project for the ECE 5700 Artificial Intelligence Course. More details regarding the architecture, methodology, and results can be found in the accompanying term paper.
+This repository contains the code and resources for a traffic sign classification model utilizing a Cross-Stage Partial (CSP) architecture. 
 
 ## Overview
 The CSP architecture enhances model efficiency by splitting feature maps at each stage, reducing computation and improving gradient flow. This project demonstrates the effectiveness of the CSP-based model in classifying traffic signs, achieving robust performance across challenging datasets.
@@ -29,15 +27,15 @@ To install the required dependencies, use the `requirements.txt` file. Run the f
 ```bash
 pip install -r requirements.txt
 ```
-**Note:** The`requirements.txt` file is only necessary if you are using older versions of the packages or if any dependencies have been deprecated. I've included it as its mandatory as part of instructions feel free to skip this step.
+**Note:** The`requirements.txt` file is only necessary if you are using older versions of the packages or if any dependencies have been deprecated.
 
 ## Setup Instructions
 
 No installation is required for this project all libraries are pre-installed on google colab environment except for pflops for evaluating efficiency. The Colab notebook provides all necessary instructions, including steps to download the dataset. You can directly run the code in Google Colab using the free T4 GPU to reproduce the results. 
 
 ## Training 
-Train the model from scratch using the training code provided in the notebook. (It takes about 1 hour to train the data using T4 GPU). Sorry for the inconvieince the model.pth which contains the weights(which I saved after training) to directly load the model had a very large file size so I wasn't able to upload it.
-Simply follow the instructions in the Colab notebook to get started. 
+Train the model from scratch using the training code provided in the notebook. (It takes about 1 hour to train the data using T4 GPU). 
+Follow the instructions in the Colab notebook to get started. 
 
 
 ## Dataset
