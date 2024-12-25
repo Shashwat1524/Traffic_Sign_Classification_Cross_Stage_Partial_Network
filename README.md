@@ -45,10 +45,10 @@ The German Traffic Sign dataset is used in this project, consisting of various t
 ## Results
 ### Test Accuracy: 87%
 Training Accuracy and Validation Accuracy Curves
-![Training Accuracy and Validation Accuracy Curves](astar.gif)
+![Training Accuracy and Validation Accuracy Curves](accuracy.png)
 
 Training Loss and Validation Loss Curves
-![Training Loss and Validation Loss Curves](astar.gif)
+![Training Loss and Validation Loss Curves](loss.png)
 
 ## References
 
