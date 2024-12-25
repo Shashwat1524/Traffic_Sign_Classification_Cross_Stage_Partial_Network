@@ -48,7 +48,7 @@ Training Accuracy and Validation Accuracy Curves
 ![Training Accuracy and Validation Accuracy Curves](accuracy.png)
 
 Training Loss and Validation Loss Curves
-![Training Loss and Validation Loss Curves](loss.png)
+![Training Loss and Validation Loss Curves](Loss.png)
 
 ## References
 
