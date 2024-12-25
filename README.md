@@ -42,6 +42,13 @@ Follow the instructions in the Colab notebook to get started.
 
 The German Traffic Sign dataset is used in this project, consisting of various types of traffic signs. You can download the dataset [here](https://benchmark.ini.rub.de/gtsrb_news.html).
 
+## Results
+### Test Accuracy: 87%
+Training Accuracy and Validation Accuracy Curves
+![Training Accuracy and Validation Accuracy Curves](astar.gif)
+
+Training Loss and Validation Loss Curves
+![Training Loss and Validation Loss Curves](astar.gif)
 
 ## References
 
